@@ -1,4 +1,4 @@
-# Gaming-Optimiser
+# Gaming Optimiser [BAT]
 
 ## How does it work?
 It works by using basic built-in windows commands
