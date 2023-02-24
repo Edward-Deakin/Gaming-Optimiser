@@ -5,8 +5,8 @@ It works by using basic built-in windows commands
 such as sfc, ipconfig and netsh.
 
 ## Is it safe?
-Yes, Gaming Optimiser is safe and is fully open
-contents](https://github.com/TheCrazyCatKidz/Gaming-Optimiser/blame/main/gaming-optimiser.bat) of the .bat file.
+Yes, Gaming Optimiser is safe and is fully open source, to validate its safety you can view the 
+[contents](https://github.com/TheCrazyCatKidz/Gaming-Optimiser/blame/main/gaming-optimiser.bat) of the .bat file.
 
 ## How do I run it?
 You need to download this file by going to [here](https://raw.githubusercontent.com/TheCrazyCatKidz/Gaming-Optimiser/main/gaming-optimiser.bat) and clicking Ctrl+S and save it as a .bat extension.
