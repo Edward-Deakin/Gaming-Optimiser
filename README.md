@@ -10,5 +10,3 @@ source and can be checked by looking at the
 [raw file output](https://raw.githubusercontent.com/TheCrazyCatKidz/Gaming-Optimiser/main/gaming-optimiser.bat) of the .bat file.
 
 ## How do I run it?
-### via. Command Prompt
-### via. File Explorer
