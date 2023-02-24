@@ -7,4 +7,4 @@ such as sfc, ipconfig and netsh.
 ## Is it safe?
 Yes, Gaming Optimiser is safe and is fully open
 source and can be checked by looking at the 
-[raw file output]() of the .bat file.
+[raw file output](https://raw.githubusercontent.com/TheCrazyCatKidz/Gaming-Optimiser/main/gaming-optimiser.bat) of the .bat file.
